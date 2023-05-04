@@ -1,6 +1,6 @@
 WELCOME TO YUNIVERSITY🎓
 ---
-👋 Hi, I’m @yunibxx, a [Twitch](https://twitch.tv/yunibxx) streamer with a background in software development.
+👋 Hi, I’m @yunibxx, a [Twitch](https://twitch.tv/yunibxx) streamer sharing my journey in software development.
 
 📫 How to reach me: you can find all my social links [here](https://linktr.ee/yunibxx) 
 
